@@ -1,0 +1,218 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:0px;
+}
+
+.container{
+    display:flex;
+    padding-top:2px;
+    border-bottom: 2px solid black;
+}
+
+.navele{
+    padding-left:30px;
+    padding-right:30px;
+    list-style-type: none;
+    padding-top:40px;
+    font-size: 17px; 
+}
+
+.navele1{
+    padding-left:30px;
+    padding-right:30px;
+    list-style-type: none;
+    padding-top:40px;
+    font-size: 17px; 
+}
+
+.nav1{
+    padding-left:30px;
+    padding-right:30px;
+    list-style-type: none;
+    padding-top:40px;
+    font-size: 17px;
+}
+#one{
+    padding-top:0px;
+    padding-left:50px;
+    padding-right:10px;
+}
+
+#two{
+    margin-right:250px;
+    padding-left:5px;
+    border-left:2px solid black;
+    font-size:29px;
+}
+
+.hlinks{
+    text-decoration: none;
+    color:black;
+}
+
+.hlinks:hover{
+    color: gray;
+}
+
+.navele1:hover{
+    transform: scale(1.5);
+}
+
+.Title{
+    text-decoration: none;
+    color:black;
+}
+
+.ending{
+    background-color: #000428;
+    color:white;
+    margin-top:20px;
+}
+
+.end{
+    display: flex;
+}
+
+.container1{
+    flex:3;
+    padding-top:5px;
+    padding-left:60px;
+    padding-right:5px;
+    padding-bottom:5px;
+    font-size:13px;
+}
+
+.flinks{
+    text-decoration: none;
+    color:white;
+}
+
+.flinks:hover{
+    color:gray;
+}
+.a2{
+    list-style-type:none;
+}
+
+.phone{
+    text-decoration: none;
+    color:white;
+}
+
+.phone:hover{
+    color:gray;
+}
+
+.logos{
+    display:flex;
+}
+
+.a1{
+    list-style-type:none ;
+    padding-right:15px;
+}
+
+.logo1:hover{
+    transform: scale(1.5);
+}
+
+.copyright{
+    text-align:center;
+    font-size:12px;
+}
+
+.gotop{
+    color:white;
+    text-decoration: none;
+}
+
+.gotop:hover{
+    color:gray;
+}
+
+.textone{
+    height:20px;
+}
+
+.buttonone{
+    height:24px;
+    background-color: cyan;
+    border:2px solid gray;
+}
+
+  
+.appul{
+    padding-left:30px
+}
+.appul0{
+    padding-left:30px
+}
+
+.panel {
+    padding: 0 18px;
+    display: none;
+    background-color: white;
+   
+  }
+
+.contain{
+    display:flex;
+    padding:20px;
+    list-style-type: none;
+}
+
+.conele{
+    padding:20px;
+    list-style-type: none;
+    padding-right:0px
+}
+
+.left{
+    list-style-type: none;
+}
+
+
+.aform{
+    display: flex;
+    border:3px solid black;
+    box-shadow:10px 20px rgb(57, 183, 214);
+    background-color:#000428;
+    color: white;
+    margin-left:15px;
+}
+
+.aformcontainer{
+    padding-left:30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.apl{
+    font-size: 9px;
+}
+
+.aheading{
+    text-align: center;
+    color: #000428;
+}
+
+.img:hover{
+    backdrop-filter: blur(10px);
+    filter: blur(4px);
+    transition: 0.5s ease;
+}
+
+.active{
+    text-align: center;
+}
+
+.profile
+{
+    margin-left:10px;
+    padding-left: 10px;
+    padding-bottom:5px;
+    border:black solid 2px;
+    padding-right:0px;
+    width:450px;
+    height:300px;
+}
